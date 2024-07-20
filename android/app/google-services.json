@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3333804206",
+    "project_id": "zego-cloud-chat-app",
+    "storage_bucket": "zego-cloud-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3333804206:android:94bc0685bb14a8c9f9dd3f",
+        "android_client_info": {
+          "package_name": "com.example.zego_cloud_call_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMQ1AxrIV9_k96p7IDEhdVm1f0rO87PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
